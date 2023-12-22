@@ -1,7 +1,7 @@
 Hi, 
 
 This is Bill
-
+<img src="https://github.com/billlee77/billlee77/blob/main/README%20cover.png?raw=true" width="100%" height="100%"/>
 
 <img src="https://github.com/catherineisonline/catherineisonline/blob/main/README%20cover.png?raw=true" width="100%" height="100%"/>
 
