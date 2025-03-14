@@ -1,12 +1,12 @@
-![Header](https://github.com/noemi8a/Awesome-CV/blob/a95ddfcfb49f5625693d70bfb6d99e867141907a/imageofPlants.jpg)
-## Hi, I'm Wenliang 'Bill' Li 😊
-I am an Assistant Professor at Mississippi State University 
+![Header](https://github.com/billlee77/Pictures/blob/ae4d1ab472496071a55fa72109cb3f46e536cc9a/feynmanDiagrams.png)
+## Hi, I'm Wenliang 'Bill' Li 🙃
+I am an Assistant Professor at Mississippi State University, I am a member fo the Canadian Institute of Nuclear Physics (CINP) and the American Society of 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billlee77&label=Profile%20views&color=0e75b6&style=flat" alt="billlee77" /> </p>
 
 - 🔭 I’m currently working on **Backward-Angle | U-Channel Physics Research**
 
-- 👯 I’m looking to collaborate on **Hadronic Physics**
+- 👐 I’m looking to collaborate on **Hadronic Physics**
 
 - 📫 How to reach me **wenliang.billlee@gmail.com**
 
