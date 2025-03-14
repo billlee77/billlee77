@@ -1,20 +1,23 @@
-Hi, 
+![Header](https://github.com/noemi8a/Awesome-CV/blob/a95ddfcfb49f5625693d70bfb6d99e867141907a/imageofPlants.jpg)
+## Hi, I'm Wenliang 'Bill' Li 😊
+I am an Assistant Professor at Mississippi State University 
 
-This is Bill
-<img src="https://github.com/billlee77/billlee77/blob/main/README%20cover.png?raw=true" width="100%" height="100%"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=billlee77&label=Profile%20views&color=0e75b6&style=flat" alt="billlee77" /> </p>
 
-<img src="https://github.com/catherineisonline/catherineisonline/blob/main/README%20cover.png?raw=true" width="100%" height="100%"/>
+- 🔭 I’m currently working on **Backward-Angle | U-Channel Physics Research**
 
-With 9 years of diverse experience in sales, customer support, social media, and team management, I am a highly adaptable and versatile professional looking to transition into the field of front-end web development. As a junior developer, I may not have extensive experience yet, but what I lack in experience, I make up for in passion and drive to learn. I am deeply passionate about creating responsive and beautiful websites using modern JavaScript, and I am constantly seeking to improve my skills and knowledge in this field. I am a quick learner and a team player, and I am confident that my unique blend of skills and experience will make me an asset to any development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact. I am looking for an opportunity to join a company where I can grow and learn as a front-end developer and where I can put my skills to use in real-world projects.
+- 👯 I’m looking to collaborate on **Hadronic Physics**
 
-### ✍🏻 I am writing about JavaScript to improve my knowledge but also to help beginner fellow developers understand programming from another angle. Follow the Medium link to read the articles! 
+- 📫 How to reach me **wenliang.billlee@gmail.com**
 
-<a  align="center" href="https://medium.com/@catherineisonline"><img  align="center" width="35" height="35" src="https://img.icons8.com/glyph-neue/64/FFFFFF/medium-logo.png" alt="medium-logo"/> Medium</a>
+- ⚡ Fun fact **I ❤️ exploring new ideas**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bill8a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bill8a" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
-<!-- [![Medium](https://github.com/catherineisonline/scandi/blob/main/medium-icon-black.png?raw=true#gh-light-mode-only)](https://medium.com/@catherineisonline) -->
-
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="320" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=billlee77&show_icons=true&locale=en&layout=compact" alt="billlee77" /></p>
