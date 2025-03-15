@@ -6,13 +6,16 @@ In the past I have contributed to the design constructionand maintenance of thre
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billlee77&label=Profile%20views&color=0e75b6&style=flat" alt="billlee77" /> </p>
 
-- 🔭 I’m currently working on **Backward-Angle | U-Channel Physics Research**
+- 🔭 I’m currently working on **MEP & Hadronic Physics**
 
-- 👐 I’m looking to collaborate on **Hadronic Physics**
+- 👐 I’m looking to collaborate on **Detector Construction, Analysis and Funding Hunts😉**
 
 - 📫 How to reach me **wenliang.billlee@gmail.com**
 
 - ⚡ Fun fact **I ❤️ exploring new ideas**
+
+<img align="left" alt="GIF" src="https://github.com/billlee77/Pictures/blob/1ac5ba67108f6eb2627f692e2e28648ff6e29ca8/50yearsofQCD_FrankWilczek_Slides40to42.png" width="400" height="450" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
