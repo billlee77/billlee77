@@ -17,11 +17,13 @@ Roman Dzhygadlo
 
 - 🔭 I’m currently working on **MEP & Hadronic Physics**
 
-- 👐 I’m looking to collaborate on **Detector Construction, Analysis and Funding Hunts😉**
-
 - 📫 How to reach me **wenliang.billlee@gmail.com**
 
+- 👐 I’m looking to collaborate on **Detector Construction, Analysis and Funding Hunts😉**
+
 - 📰 Latest publications **[Google Scholar](https://scholar.google.com/citations?user=86Y9YMAAAAAJ&hl=en)**
+
+- ⚛️ Network with me **[CFNS](https://www.stonybrook.edu/cfns/people/#Postdocs), [MSU](https://www.physics.msstate.edu/directory/wl584)**
 
 - ⚡ Fun fact **I ❤️ exploring new ideas**
 
