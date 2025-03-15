@@ -1,6 +1,8 @@
 ![Header](https://github.com/billlee77/Pictures/blob/ae4d1ab472496071a55fa72109cb3f46e536cc9a/feynmanDiagrams.png)
 ## Hi, I'm Wenliang 'Bill' Li 🙃
-I am an Assistant Professor at Mississippi State University, I am a member fo the Canadian Institute of Nuclear Physics (CINP) and the American Physical Society (APS) currently working on Medium Energy Physics (MEPs) 
+I am an Assistant Professor at Mississippi State University, I am a member fo the Canadian Institute of Nuclear Physics (CINP) and the American Physical Society (APS) currently working on Medium Energy Physics (MEPs) although HEPs is more popular (no shade) I want to spread the word on how much Medium Energies can show. At MSU we have a hardware/Analysis oriented research group on the works.
+
+In the past I have contributed to the design constructionand maintenance of three Cherenkov detectors: the HGC at JLab Hall C, the DIRC at JLab Hall D and currently assisting on the hpDIRC to be build at the future Electron Ion Collider (EIC) facility at Brookhaven National Lab; hardware is no problem, but what is it without Analysis: In the past I helped develop particle identification and background substraction techniques at the Fpi2 experiment at Hall C, and I am among the pioneeres of the probing of nucleon structure through backward-angle (u-channel) scattered observables, materialized in the [E1220007 Experiment](https://www.jlab.org/exp_prog/12GEV_EXP/E1220007.html) at JLab Hall C: for the Backward-angle Exclusive pi0 Production above the Resonance Region , this is also on the works [for the EIC](https://www.scipost.org/preprints/scipost_202107_00092v1/) - contact me if you want to talk about it over some beers 🍻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billlee77&label=Profile%20views&color=0e75b6&style=flat" alt="billlee77" /> </p>
 
