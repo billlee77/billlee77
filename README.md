@@ -4,6 +4,15 @@ I am an Assistant Professor at Mississippi State University, I am a member fo th
 
 In the past I have contributed to the design constructionand maintenance of three Cherenkov detectors: the HGC at JLab Hall C, the DIRC at JLab Hall D and currently assisting on the hpDIRC to be build at the future Electron Ion Collider (EIC) facility at Brookhaven National Lab; hardware is no problem, but what is it without Analysis: In the past I helped develop particle identification and background substraction techniques at the Fpi2 experiment at Hall C, and I am among the pioneeres of the probing of nucleon structure through backward-angle (u-channel) scattered observables, materialized in the [E1220007 Experiment](https://www.jlab.org/exp_prog/12GEV_EXP/E1220007.html) at JLab Hall C: for the Backward-angle Exclusive pi0 Production above the Resonance Region , this is also on the works [for the EIC](https://www.scipost.org/preprints/scipost_202107_00092v1/) - contact me if you want to talk about it over some beers 🍻
 
+## Our Research Group
+[Dr Hem Bhatta](https://www.physics.msstate.edu/directory/hdb169)
+
+[Sweety Kakkar](https://www.physics.msstate.edu/directory/ss4840)
+
+[Zichen Yin](https://www.physics.msstate.edu/directory/zy115)
+
+Roman Dzhygadlo
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billlee77&label=Profile%20views&color=0e75b6&style=flat" alt="billlee77" /> </p>
 
 - 🔭 I’m currently working on **MEP & Hadronic Physics**
@@ -11,6 +20,8 @@ In the past I have contributed to the design constructionand maintenance of thre
 - 👐 I’m looking to collaborate on **Detector Construction, Analysis and Funding Hunts😉**
 
 - 📫 How to reach me **wenliang.billlee@gmail.com**
+
+- 📰 Latest publications **[Google Scholar](https://scholar.google.com/citations?user=86Y9YMAAAAAJ&hl=en)**
 
 - ⚡ Fun fact **I ❤️ exploring new ideas**
 
